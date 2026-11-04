@@ -1,0 +1,28 @@
+# Experiment outputs
+results/
+figures/
+*.csv
+*.npy
+*.npz
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
