@@ -1,6 +1,6 @@
 # Coevolution of strategies in the Iterated Prisoner's Dilemma under noise
 
-Authors: Diego Mallo Bozzolla, David Garcia Ortiz
+Authors: Diego Mallo Bozzola, David Garcia Ortiz
 
 ## Introduction
 
