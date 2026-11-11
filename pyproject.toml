@@ -11,7 +11,10 @@ dependencies = [
     "numpy>=1.26",
     "deap>=1.4",
     "matplotlib>=3.8",
+    "scipy>=1.11",
 ]
 
-[tool.setuptools.packages.find]
-where = ["src"]
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["game", "strategies", "experiments"]  # single files in src/
+packages = ["analysis"]  # folders in src/
